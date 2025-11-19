@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Syed Ashja Amin
+# 👋 Hey there! I'm Syed Ashja 
 
 I'm a **Junior Developer** passionate about learning and building creative web solutions.  
 I love working with both **frontend and backend** technologies — bringing ideas to life through clean and functional code.
