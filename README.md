@@ -26,8 +26,8 @@ I’m continuously learning new things — aiming to become a **Full-Stack Devel
 
 ### 📫 Connect with Me
 If you’d like to collaborate or just say hi —  
-**Email:** ashjaamin13@gmail.com  
-**GitHub:** https://github.com/ashjaamin13-create/Projects
+**Email:** infosyedashja@gmail.com 
+**GitHub:**  https://github.com/syedashja-git
 
 ---
 
