@@ -1,14 +1,15 @@
 # 👋 Hi, I'm Syed Ashja
 
-### Junior Web Developer | Building Practical Web Solutions
+### Frontend Developer | Building Practical Web Solutions
 
-I’m a Web Developer passionate about creating responsive websites, interactive web applications, and practical digital solutions. I enjoy turning ideas into functional projects while continuously improving my development skills.
+I’m a Frontend Developer passionate about creating modern, responsive websites and interactive web applications. I enjoy transforming ideas into user-friendly digital experiences while continuously learning and improving my development skills.
 
-- 💻 Focused on **Web Development**
-- 🌱 Continuously improving my JavaScript and backend development skills
-- 🔧 Building projects using HTML, CSS, JavaScript, PHP and MySQL
-- 🗄️ Exploring database integration and cloud technologies
-- 🚀 Interested in building useful, real-world web applications
+- 💻 Focused on **Frontend Development**
+- 🌱 Continuously improving my JavaScript skills
+- 🎨 Building responsive and user-friendly interfaces
+- 🔧 Working with HTML, CSS, JavaScript and Bootstrap
+- 🗄️ Exploring backend technologies and database integration
+- 🚀 Interested in creating practical, real-world web applications
 - 🤝 Open to learning, collaboration and new opportunities
 
 ---
@@ -41,32 +42,22 @@ I’m a Web Developer passionate about creating responsive websites, interactive
 ## 🚀 Featured Projects
 
 ### 🔹 HCM Lite – Human Capital Management
+
 A web-based project focused on managing human resource operations and digital workflows.
 
 🔗 [View Project](https://hcm-lite-hackathon-project.vercel.app/)
 
 ### 🔹 Web Development Portfolio
+
 My personal portfolio showcasing my web development work and projects.
 
 🔗 [View Portfolio](https://syedashja-git.github.io/PORTFOLIO/)
 
 ### 🔹 Hackathon Project – Issue Reporting System
+
 A web-based interface developed for reporting and managing issues.
 
 🔗 [View Project](https://syedashja-git.github.io/HACKATHON-11th-JULY-2026/)
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syedashja-git&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedashja-git&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedashja-git&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
